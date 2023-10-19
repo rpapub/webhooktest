@@ -61,3 +61,4 @@
 - Ensuring that Jenkins runs over HTTPS.
 - Setting up proper authentication and authorization.
 - Using a firewall to restrict incoming connections to specific IP addresses or IP ranges (like those from GitHub).
+
