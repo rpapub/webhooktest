@@ -1,3 +1,5 @@
+[![Build Status](http://a8.wob38.archam.de:28080/buildStatus/icon?job=GitHubWebhookExample)](http://a8.wob38.archam.de:28080/job/GitHubWebhookExample/)
+
 # webhooktest
 
 ## Init
