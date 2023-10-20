@@ -57,7 +57,6 @@
 1. Make a change in your GitHub repo and push the change.
 2. This should trigger the Jenkins job you set up.
 3. Go to the Jenkins dashboard and check the console output of the job run. You should see the message "Build triggered by GitHub webhook!".
-
 **Security Note**: Exposing Jenkins to the public internet can have security implications. Ensure you have secured Jenkins appropriately, using measures like:
 - Changing the default admin username/password.
 - Ensuring that Jenkins runs over HTTPS.
