@@ -1,4 +1,4 @@
-![Build Status](https://camo.githubusercontent.com/d82d0bede1f973a8781a425a9967ac799cb6c9cd4520ba66142457d135e38b32/687474703a2f2f617574616e2e61382e776f6233382e61726368616d2e64653a32383038302f6275696c645374617475732f69636f6e3f6a6f623d476974487562576562686f6f6b4578616d706c65)
+[![Build Status](http://a8.wob38.archam.de:28080/buildStatus/icon?job=GitHubWebhookExample)](http://a8.wob38.archam.de:28080/job/GitHubWebhookExample/)
 
 # webhooktest
 
