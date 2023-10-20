@@ -2,6 +2,11 @@ pipeline {
     agent any 
 
     stages {
+        stage('Print env') {
+            steps {
+                sh 'printenv'
+            }
+        }
         stage('Display GitHub Info') {
             steps {
                 script {
