@@ -1,4 +1,4 @@
-[![Build Status](http://brubu.a8.wob38.archam.de:8080/buildStatus/icon?job=MinimalExamples%2FGitHubWebhookExample)](http://brubu:8080/job/MinimalExamples/job/GitHubWebhookExample/)
+[![Build Status](http://autan.a8.wob38.archam.de:28080/buildStatus/icon?job=MinimalExamples%2FGitHubWebhookExample)](http://autan:28080/job/MinimalExamples/job/GitHubWebhookExample/)
 
 # webhooktest
 
